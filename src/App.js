@@ -10,5 +10,5 @@ function App() {
       <Child />
     </div>
   );
-
+  }
 export default App;
